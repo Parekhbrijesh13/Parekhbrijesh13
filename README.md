@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Brijesh Parekh
 
-<!--
-**Parekhbrijesh13/Parekhbrijesh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Learning Advanced Java, Python, DBMS & Frontend Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently improving my skills in **Advanced Java** and **Python**
+- 🧩 Good understanding of **DBMS** and **OOP concepts**
+- 💻 Learning **Frontend** (HTML, CSS, JavaScript) for full-stack development
+- 🔭 Working on projects to strengthen practical knowledge
+
+---
+
+## 🧠 Skills
+- **Languages:** Java, Python, C, JavaScript  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code, Eclipse  
+
+---
+
+## 📊 GitHub Stats
+![Brijesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijeshparekh&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshparekh&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+📧 youremail@example.com  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+📷 [Instagram](https://instagram.com/yourprofile)
+
+---
+
+⭐ *Learning every day to become a better developer.*
