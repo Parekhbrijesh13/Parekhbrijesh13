@@ -27,9 +27,9 @@
 ---
 
 ## 📫 Connect With Me
-📧 youremail@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📷 [Instagram](https://instagram.com/yourprofile)
+📧 parekhbrijes901@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/parekh-brijesh/) 
+📷 [Instagram](https://instagram.com/_.brijeshhh7)
 
 ---
 
