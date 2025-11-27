@@ -1,36 +1,17 @@
-# 👋 Hi, I'm Brijesh Parekh
+I am a BCA student passionate about becoming a software developer.
+Currently, I am learning Java, Python, SQL, and core programming concepts to build a strong foundation in software development.
 
-🎓 BCA Student | 💻 Learning Advanced Java, Python, DBMS & Frontend Development
+I enjoy creating small projects, understanding how things work behind the scenes, and improving my logic through DSA. I focus on writing clean, simple, and understandable code while building my skills step by step.
 
----
+Currently working on:
+• Java (OOP, Collections, JDBC)
+• Python basics & scripting
+• SQL queries and database design
+• DSA (Arrays, Strings, HashMaps)
+• Mini-projects to improve practical knowledge
 
-## 🚀 About Me
-- 🌱 Currently improving my skills in **Advanced Java** and **Python**
-- 🧩 Good understanding of **DBMS** and **OOP concepts**
-- 💻 Learning **Frontend** (HTML, CSS, JavaScript) for full-stack development
-- 🔭 Working on projects to strengthen practical knowledge
+I am continuously learning and open to opportunities where I can grow as a developer and contribute to real-world projects.
 
----
+🌱 I’m open to internship opportunities, real-world projects, and continuous learning.
 
-## 🧠 Skills
-- **Languages:** Java, Python, C, JavaScript  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code, Eclipse  
-
----
-
-## 📊 GitHub Stats
-![Brijesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijeshparekh&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshparekh&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Connect With Me
-📧 parekhbrijes901@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/parekh-brijesh/) 
-📷 [Instagram](https://instagram.com/_.brijeshhh7)
-
----
-
-⭐ *Learning every day to become a better developer.*
+Let’s connect if you’re into coding, collaboration, or mentorship!
