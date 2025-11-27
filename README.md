@@ -15,3 +15,9 @@ I am continuously learning and open to opportunities where I can grow as a devel
 🌱 I’m open to internship opportunities, real-world projects, and continuous learning.
 
 Let’s connect if you’re into coding, collaboration, or mentorship!
+
+
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ParekhBrijesh)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.brijeshhh7)
