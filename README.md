@@ -21,3 +21,6 @@ Let’s connect if you’re into coding, collaboration, or mentorship!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parekh-brijesh-338b06366/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.brijeshhh7)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parekhbrijesh901@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white)](https://yourportfolio.com)
+
