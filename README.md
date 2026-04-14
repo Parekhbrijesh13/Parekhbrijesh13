@@ -12,12 +12,13 @@
 
 ```yaml
 name: "Parekh Brijesh"
-location: "India 🇮🇳"
-education: "BCA – Final Year"
+location: "Gujarat Ahemdabad"
+education: "BCA – Graduate"
 goal: "Backend Developer"
 current_focus:
   - "E-Grocery Web App (Laravel)"
   - "Advanced Java & Spring Boot"
+  - "React.js for Modern UI Development"
 strengths:
   - "Laravel · PHP · REST APIs"
   - "AJAX · MVC Architecture"
@@ -37,6 +38,7 @@ interests:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-005571?style=flat-square)
 
@@ -73,10 +75,11 @@ interests:
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🛒 **E-Grocery Web App** | Full-stack grocery platform with product listing, cart, order management & authentication | Laravel · MySQL · AJAX |
-| 🌦️ **Weather App** | Real-time weather data fetched via public API with clean UI | HTML · CSS · JS · REST API |
-| 🔐 **Login/Register System** | AJAX-based auth system with session management | PHP · jQuery · MySQL |
+| 🌦️ **Weather App (Laravel)** | Weather application built using Laravel with API integration and clean UI | Laravel · REST API · Blade |
+| 💍 **Eventify (Wedding Management System)** | Complete wedding/event management system with booking, planning & user management | Core PHP · MySQL · JavaScript |
+| 🍽️ **Darshan – Restaurant Management System** | Modern restaurant system with order handling, dashboard & backend APIs | React · Spring Boot · MySQL |
 
-> 📌 More projects on my [GitHub repositories](https://github.com/yourusername?tab=repositories)
+> 📌 More projects: https://github.com/YOUR_GITHUB_USERNAME?tab=repositories
 
 ---
 
@@ -84,18 +87,26 @@ interests:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 ## 📫 Connect With Me
 
@@ -115,6 +126,14 @@ interests:
 &nbsp;
 <a href="https://www.instagram.com/your-instagram/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://your-resume-link">
+  <img src="https://img.shields.io/badge/Resume-Download-28a745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
 </div>
