@@ -100,13 +100,6 @@ interests:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Parekhbrijesh13/Parekhbrijesh13/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ## 📫 Connect With Me
 
