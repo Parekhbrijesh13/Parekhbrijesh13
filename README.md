@@ -105,11 +105,11 @@ interests:
 
 <div align="center">
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:parekhbrijesh901@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://your-portfolio.com">
+<a href="https://Parekhbrijesh13.github.io">
   <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
@@ -121,7 +121,7 @@ interests:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Parekhbrijesh13">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
