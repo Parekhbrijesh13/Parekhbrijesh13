@@ -94,7 +94,7 @@ interests:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Parekhbrijesh13&theme=tokyonight&hide_border=true" />
 
 </div>
 
