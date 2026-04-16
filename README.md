@@ -1,19 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Parekh%20Brijesh&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=Backend%20Developer%20%7C%20Laravel%20%7C%20Spring%20Boot&descAlignY=70&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Parekh%20Brijesh&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Backend%20Developer%20%7C%20Laravel%20%7C%20Spring%20Boot&descAlignY=64&descSize=18&descColor=c4b5fd" width="100%"/>
 
-</div>
+# 👋 Hey, I'm Brijesh Parekh
 
-<div align="center">
+### 🚀 Aspiring Backend Developer from Gujarat, India
 
-![Location](https://img.shields.io/badge/📍_Gujarat,_India-7c3aed?style=for-the-badge\&labelColor=1a0a2e)
-![Education](https://img.shields.io/badge/🎓_BCA_Student-10b981?style=for-the-badge\&labelColor=0a1f0a)
-![Focus](https://img.shields.io/badge/🚀_Backend_Development-f59e0b?style=for-the-badge\&labelColor=1a1200)
-![Gym](https://img.shields.io/badge/💪_Fitness-ef4444?style=for-the-badge\&labelColor=2a0a09)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+%7C+Spring+Boot+Enthusiast;Building+Real-World+Projects;Open+to+Internships+and+Entry-Level+Roles" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Parekhbrijesh13\&label=Profile+Views\&color=7c3aed\&style=flat-square)
+![Location](https://img.shields.io/badge/📍_Gujarat,_India-7c3aed?style=for-the-badge&labelColor=1a0a2e)
+![Education](https://img.shields.io/badge/🎓_BCA_Student-10b981?style=for-the-badge&labelColor=0a1f0a)
+![Focus](https://img.shields.io/badge/🚀_Backend_Development-f59e0b?style=for-the-badge&labelColor=1a1200)
+![Fitness](https://img.shields.io/badge/💪_Fitness-ef4444?style=for-the-badge&labelColor=2a0a09)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Parekhbrijesh13&label=Profile+Views&color=7c3aed&style=flat-square)
 
 </div>
 
@@ -21,74 +25,139 @@
 
 ## 🧑‍💻 About Me
 
-* 🔨 Building: **E-Grocery Web App (Laravel)**
-* 📚 Learning: **Spring Boot · Advanced Java · React**
-* 🎯 Goal: Become a **job-ready backend developer by 23–24**
-* 💡 Strengths: **REST APIs · MVC · Authentication · Database Design**
+I’m a **BCA student** and an **aspiring backend developer** passionate about building practical web applications and improving my problem-solving skills through real-world projects.
+
+- 🔨 Currently building: **E-Grocery Web App (Laravel)**
+- 📚 Currently learning: **Spring Boot, Advanced Java, React**
+- 🎯 Career goal: Become a **job-ready backend developer by age 23–24**
+- 💡 Core strengths: **REST APIs, MVC, Authentication, Database Design**
+- 🔍 Interested in: **Scalable backend systems, clean architecture, and full-stack product development**
+
+---
+
+## ⚡ Quick Overview
+
+<table align="center">
+<tr>
+<td><strong>💼 Role</strong></td>
+<td>Backend Developer</td>
+</tr>
+<tr>
+<td><strong>🛠 Primary Stack</strong></td>
+<td>Laravel, Spring Boot, MySQL</td>
+</tr>
+<tr>
+<td><strong>🌱 Learning</strong></td>
+<td>React, Advanced Java, API Development</td>
+</tr>
+<tr>
+<td><strong>🎯 Goal</strong></td>
+<td>Internship / Entry-Level Backend Role</td>
+</tr>
+<tr>
+<td><strong>📍 Location</strong></td>
+<td>Gujarat, India</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### ⚙️ Backend
-
-![PHP](https://img.shields.io/badge/PHP-1a1040?style=flat-square\&logo=php\&logoColor=a78bfa)
-![Laravel](https://img.shields.io/badge/Laravel-2a0a09?style=flat-square\&logo=laravel\&logoColor=fca5a5)
-![Java](https://img.shields.io/badge/Java-1a1200?style=flat-square\&logo=openjdk\&logoColor=fcd34d)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-061a0a?style=flat-square\&logo=springboot\&logoColor=6ee7b7)
+<p>
+  <img src="https://img.shields.io/badge/PHP-1a1040?style=for-the-badge&logo=php&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Laravel-2a0a09?style=for-the-badge&logo=laravel&logoColor=fca5a5" />
+  <img src="https://img.shields.io/badge/Java-1a1200?style=for-the-badge&logo=openjdk&logoColor=fcd34d" />
+  <img src="https://img.shields.io/badge/Spring_Boot-061a0a?style=for-the-badge&logo=springboot&logoColor=6ee7b7" />
+</p>
 
 ### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-0a1929?style=flat-square\&logo=react\&logoColor=7dd3fc)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1500?style=flat-square\&logo=javascript\&logoColor=fef08a)
-![jQuery](https://img.shields.io/badge/jQuery-0a1929?style=flat-square\&logo=jquery\&logoColor=7dd3fc)
-![AJAX](https://img.shields.io/badge/AJAX-0a1929?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square\&logo=html5\&logoColor=d1d5db)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square\&logo=css3\&logoColor=d1d5db)
+<p>
+  <img src="https://img.shields.io/badge/React-0a1929?style=for-the-badge&logo=react&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1500?style=for-the-badge&logo=javascript&logoColor=fef08a" />
+  <img src="https://img.shields.io/badge/jQuery-0a1929?style=for-the-badge&logo=jquery&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/AJAX-0a1929?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=d1d5db" />
+  <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=d1d5db" />
+</p>
 
 ### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-0a1f0a?style=flat-square\&logo=mysql\&logoColor=86efac)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1f0a?style=flat-square\&logo=postgresql\&logoColor=86efac)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0a1f0a?style=for-the-badge&logo=mysql&logoColor=86efac" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0a1f0a?style=for-the-badge&logo=postgresql&logoColor=86efac" />
+</p>
 
 ### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square\&logo=git\&logoColor=d1d5db)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square\&logo=github\&logoColor=d1d5db)
-![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=flat-square\&logo=postman\&logoColor=d1d5db)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square\&logo=visualstudiocode\&logoColor=d1d5db)
+<p>
+  <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=d1d5db" />
+  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Postman-1a1a1a?style=for-the-badge&logo=postman&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=60a5fa" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🛒 E-Grocery Web App
+A full-stack grocery management system with:
+- user authentication
+- cart functionality
+- order management
+- clean backend structure
 
-Full-stack grocery system with authentication, cart & order management
-🔗 https://github.com/Parekhbrijesh13
+🔗 **Repository:**  
+[View Project](https://github.com/Parekhbrijesh13)
 
----
+</td>
+<td width="50%">
 
 ### 🌦️ Weather App
+A Laravel-based weather application using REST APIs to fetch and display real-time weather data.
 
-Laravel weather app using REST APIs
-🔗 https://github.com/Parekhbrijesh13
+🔗 **Repository:**  
+[View Project](https://github.com/Parekhbrijesh13)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 💍 Eventify — Wedding System
+An event booking and management platform focused on organizing wedding-related services efficiently.
 
-Event booking & management system
-🔗 https://github.com/Parekhbrijesh13
+🔗 **Repository:**  
+[View Project](https://github.com/Parekhbrijesh13)
 
----
+</td>
+<td width="50%">
 
 ### 🍽️ Restaurant Management System
+A full-stack application built with **React + Spring Boot + MySQL** for restaurant operations and management.
 
-React + Spring Boot + MySQL
-🔗 https://github.com/Parekhbrijesh13
+🔗 **Repository:**  
+[View Project](https://github.com/Parekhbrijesh13)
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 📈 Current Focus
+
+✅ Improving backend development skills
+✅ Building real-world CRUD and API projects
+✅ Learning Spring Boot architecture
+✅ Strengthening database design concepts
+✅ Preparing for internships and job opportunities
+
 
 ## 📊 GitHub Stats
 
