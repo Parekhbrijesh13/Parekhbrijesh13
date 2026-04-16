@@ -104,7 +104,7 @@ interests:
 
 <div align="center">
 
-<img src="https://github.com/Parekhbrijesh13/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Parekhbrijesh13/blob/output/github-contribution-grid-snake.svg" />
 
 </div>
 
