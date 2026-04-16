@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header&text=Hey,%20I'm%20Parekh%20Brijesh%20👋&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Backend%20Developer%20in%20Progress&descAlignY=75&descSize=16" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=302b63&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Parekhbrijesh13&label=Profile+Views&color=302b63&style=for-the-badge" />
 
 </div>
 
@@ -87,8 +87,8 @@ interests:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Parekhbrijesh13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parekhbrijesh13&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -104,7 +104,7 @@ interests:
 
 <div align="center">
 
-<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Parekhbrijesh13/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
 
 </div>
 
