@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Parekh%20Brijesh&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Backend%20Developer%20%7C%20Laravel%20%7C%20Spring%20Boot&descAlignY=64&descSize=18&descColor=c4b5fd" width="100%"/>
 
-# 👋 Hey, I'm Brijesh Parekh
-
-### 🚀 Aspiring Backend Developer from Gujarat, India
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+%7C+Spring+Boot+Enthusiast;Building+Real-World+Projects;Open+to+Internships+and+Entry-Level+Roles" alt="Typing SVG" />
-
 <br/>
 
 ![Location](https://img.shields.io/badge/📍_Gujarat,_India-7c3aed?style=for-the-badge&labelColor=1a0a2e)
